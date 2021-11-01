@@ -1,0 +1,8 @@
+body {
+	color:purple;
+	font-family: arial;
+}
+
+a {
+	color:inherit; /* child a akan mewariskan color dari parents yaitu body*/
+} 

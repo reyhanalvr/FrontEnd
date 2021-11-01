@@ -1,0 +1,9 @@
+div {
+	/*  Padding & Border mempengaruhi ukuran elemen */
+	background-color: orange;
+	width: 300px;
+	height:300px;
+	margin:20px auto;
+	padding: 50px; /* Padding tidak bisa auto dan negatif */
+	border: 5px solid black; /* width style color */
+}
